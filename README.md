@@ -1,4 +1,6 @@
 # ultrasound-transducer-design-platform-UltraDesign-
-An infant of an industrial software, focusing on ultrasound transducer designing. Sponsored by SBT-sh as a graduation project of SJTU.
+Have a try now!
+An industrial software, focusing on ultrasound transducer designing, including mechanical, electrical, and thermal analysis. 
+Sponsored by SBT-sh as a graduation project of SJTU.
 Contact: 2624489449@qq.com / swetalcriollo@gmail.com
-Non_commercial use only, otherwise charging for licenses.
+Non-commercial use only, otherwise charging for licenses.
